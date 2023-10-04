@@ -1,6 +1,5 @@
 streamlit>=0.81
 numpy
-pydantic
 pandas
 uvicorn
 fastapi
@@ -11,4 +10,4 @@ django-environ
 python-dotenv
 markdown
 openpyxl
-
+pydantic<2
